@@ -1,0 +1,131 @@
+.mainframe{
+    margin-top: 2%;
+    margin-left: 27%;
+    height: 710px;
+}
+.frame1{
+    width: 300px;
+    height: 100%;
+    background:linear-gradient(135deg, #FFC700 0%, #03856E 100%);
+}
+
+.frame2{
+    margin-left: 300px;
+    margin-top: -710px;
+    width: 300px;
+    height: 100%;
+    background:linear-gradient(135deg, #00A7BE 0%, #FFFFFF 100%);
+}
+
+.avatar{
+
+    margin-left: 32%;
+    border-radius: 120px;
+}
+
+.name{
+    margin-left: 10%;
+    margin-bottom: 12px;
+    font-size: 32;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contacts{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin: auto;
+    height: 80px;
+    width: 70%;
+    background:linear-gradient(135deg, #FFFFFF 0%, #C4C4C4 100%);
+}
+.title{
+    text-align: center;
+    background: linear-gradient(135deg, #A39999 0%, #FF0000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contacts_info{
+    margin-left: 10px;
+}
+
+.vectors{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin: auto;
+    height: 90px;
+    width: 70%;
+    background:linear-gradient(135deg, #FFFFFF 0%, #C4C4C4 100%);
+}
+
+.languages{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    height: 90px;
+    width: 70%;
+    background:linear-gradient(135deg, #FFFFFF 0%, #C4C4C4 100%);
+}
+
+.list{
+    margin-top: -15px;
+    font-size: 19px;
+}
+
+.lang_level{
+    height: 10px;
+    width: 50px;
+    background:linear-gradient(135deg, #FFFFFF 0%, #C4C4C4 100%);
+}
+
+.professions{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    height: 90px;
+    width: 70%;
+    background:linear-gradient(135deg, #FFFFFF 0%, #C4C4C4 100%);
+}
+
+.interestes{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin: auto;
+    height: 90px;
+    width: 70%;
+    background:linear-gradient(135deg, #FFFFFF 0%, #C4C4C4 100%);
+}
+
+
+.aboutme{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    height: auto;
+    width: 80%;
+    background:linear-gradient(135deg, #41F124 0%, #DCFFD7 100%);
+}
+
+.education{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    height: auto;
+    width: 80%;
+    background:linear-gradient(135deg, #41F124 0%, #DCFFD7 100%);
+}
+
+.lang_prog{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    height: auto;
+    width: 80%;
+    background:linear-gradient(135deg, #41F124 0%, #DCFFD7 100%);
+}
+
+.skills{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    height: auto;
+    width: 80%;
+    background:linear-gradient(135deg, #41F124 0%, #DCFFD7 100%);
+}
+
+ul{
+    margin-left: -15px;
+}
